@@ -39,7 +39,7 @@ php artisan migrate
 ### Show result
 
 Open web browser
-# Laravel: `localhost:8000`
-# phpMyAdmin: `localhost: 8081`
+#### Laravel: `localhost:8000`
+#### phpMyAdmin: `localhost: 8081`
 
 Good luck
