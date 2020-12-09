@@ -16,7 +16,7 @@ docker-compose exec php-fpm bash
 
 ```
 
-### Laravel setup
+### Laravel Setup
 ```sh
 composer install
 
@@ -37,9 +37,8 @@ php artisan key:generate
 php artisan migrate
 ```
 ### Show result
-
-Open web browser
-#### Laravel: `localhost:8000`
-#### phpMyAdmin: `localhost: 8081`
+## Open web browser
+ - Laravel: `localhost:8000`
+ - phpMyAdmin: `localhost: 8081`
 
 Good luck
